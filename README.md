@@ -2,6 +2,36 @@
   <img src="assets/Gemma-logo.png" alt="Llama" style="width: 30%; display: block; margin: auto;"></a>
 </p>
 
+## Gemma中文社区
+
+### Gemma中文社区介绍
+Gemma中文社区 Github: https://github.com/GemmaLab/GemmaChinese (大家点点star，共享PR)
+
+在这里:
+- 了解Gemma及Gemma中文最新信息
+社区成员共同解读与Gemma相关的最新研究论文，深入理解前沿算法和大模型实践。
+
+- 开放态度-协作共建
+发展壮大国内开源大模型社区，推动AI技术实践，共享大模型相关经验、测试结果和应用落地。
+  - 开展线上讲座
+  - 项目展示
+  - 学习资源
+  - 主题活动
+  - 成员间项目合作
+
+- 鼓励大家踊跃贡献PR
+https://github.com/GemmaLab/GemmaChinese
+  - 【推理】
+  - 【部署】
+  - 【微调】
+  - 【加速】
+  - 【应用】
+
+### 加入社区交流
+加入微信交流群一起探索Gemma的应用！
+
+<img src="./assets/wechat.png" alt="Wechat" style="width: 30%; display: block; margin: auto;">
+
 
 ## Google Gemma
 
@@ -102,7 +132,3 @@ accelerate launch --config_file examples/accelerate_configs/multi_gpu.yaml --num
 ```
 在[OpenAssistant](https://huggingface.co/datasets/OpenAssistant/oasst_top1_2023-08-25)的对话数据集上微调完成，大约需要单张A10G显卡运行9小时。
 
-## 社区交流
-加入交流群一起探索Gemma的应用！
-
-<img src="./assets/wechat.png" alt="Wechat" style="width: 30%; display: block; margin: auto;">
