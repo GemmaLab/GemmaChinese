@@ -30,7 +30,7 @@ https://github.com/GemmaLab/GemmaChinese
 ### 加入社区交流
 加入微信交流群一起探索Gemma的应用！
 
-<img src="./assets/wechat.png" alt="Wechat" style="width: 30%; display: block; margin: auto;">
+<img src="./assets/wechat.jpg" alt="Wechat" style="width: 30%; display: block; margin: auto;">
 
 
 ## Google Gemma
